@@ -7,6 +7,7 @@ public class helloWorld {
 		System.out.println("Greg added line");
 		System.out.println("Behnam added a line");
 		System.out.println("Hidayat added a line");
+    System.out.println("TEST GIT");
 	}
 
 }
