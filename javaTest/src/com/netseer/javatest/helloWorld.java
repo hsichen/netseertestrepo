@@ -8,6 +8,7 @@ public class helloWorld {
 		System.out.println("Behnam added a line");
 		System.out.println("Hidayat added a line");
 		System.out.println("Some idiots put it here");
+		System.out.println("hot patch 2 added");
 	}
 
 }
