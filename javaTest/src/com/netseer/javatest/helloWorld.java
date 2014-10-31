@@ -1,4 +1,5 @@
-package helloWorld;
+package com.netseer.javatest;
+
 
 public class helloWorld {
 	public static void main(String args[]){
@@ -7,7 +8,6 @@ public class helloWorld {
 		System.out.println("Behnam added a line");
 		System.out.println("Hidayat added a line");
 		System.out.println("Some idiots put it here");
-		System.out.println("Behnam added another line in another branch");
 	}
 
 }
