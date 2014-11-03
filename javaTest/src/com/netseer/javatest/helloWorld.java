@@ -10,6 +10,7 @@ public class helloWorld {
 		System.out.println("Some idiots put it here");
 		System.out.println("hot patch 2 added");
 		System.out.println("hot patch 3 is done, you can all relax now");
+		System.out.println("Fire has been put out in production for tech1357");
 	}
 
 }
