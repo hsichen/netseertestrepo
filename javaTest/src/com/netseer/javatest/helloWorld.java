@@ -16,6 +16,7 @@ public class helloWorld {
 		System.err.println("daning created a new line");
 		System.out.println("Patch for ticket TECHSUP-1362 is applied");
 		System.out.println("What you guys broke Mehrdad just fixed; ticket CLOPT-134");
+		System.out.println("Patch for ticket PUBHUB-1110 is applied, hotfix");
 	}
 
 }
